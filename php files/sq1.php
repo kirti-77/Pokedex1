@@ -1,0 +1,19 @@
+<html>
+<head>
+<title>sq1</title>
+</head>
+<body>
+<table border="1" cellpadding="5" cellspacing="0">
+<tr>
+<th>ID</th>
+<th>Name</th>
+<th>Type1</th>
+<th>Type2</th>
+<th>Ability1</th>
+<th>Ability2</th>
+<th>AbilityH</th>
+</tr>
+<tr>
+<td>1</td>
+<td>bulbasaur</td>
+<td
